@@ -1,6 +1,6 @@
 :custard: zunda-cli is a joke of Zundamaru Advent Calendar!
 
-You can always call Zundamaru at any time.
+You can appear spawn Zundamaru at any time.
 
 
 ## Installation
